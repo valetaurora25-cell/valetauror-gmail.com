@@ -4,7 +4,7 @@
 
 ***In this course my goal is to have full knowledge on how to integrate AI in different systems.***
 
-https://github.com/valetaurora25-cell/valetauror-gmail.com/edit/main/markdown-practice.md
+https://github.com/valetaurora25-cell/valetauror-gmail.com/blob/main/markdown-practice.md
 
 list
 - Item one C++
