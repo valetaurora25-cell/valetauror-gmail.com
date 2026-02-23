@@ -20,13 +20,15 @@ list
  |---------|-----------|----------|
  | Python  | AI        | Inactive |
  | C++     | AI        | Inactive |
+ | Java    | AI        | Inactive |
+ | C       | AI        | Inactive |
 
  - [ ] Completed task Javascript
 - [x] Incomplete task Python
 - [ ] Another task to do HTML
 
       ```python
-print("Hello, world! am Valet taking AI course at IYF")
+print("Hello, world! am Valet taking AI course ")
 ```
 > Africa needs another liberator let it be you.
 
